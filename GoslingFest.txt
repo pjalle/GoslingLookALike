@@ -3,5 +3,7 @@ Indkøbsliste
 Sunde:
 
 Usunde:
+ØL
+DAMER
 
 Bestemt:
