@@ -1,12 +1,14 @@
-Indkøbsliste
+IndkÃ¸bsliste
 
 Sunde:
-LysØl
+LysÃ˜l
 
 Usunde:
-ØL
+Ã˜L
 DAMER
 
 Bestemt:
 Ryan Gosling papdukke
 Nicholas Cage Dukke
+
+kkk
